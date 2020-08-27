@@ -8,7 +8,7 @@ Today you'll be working in the **AWS Cloud9** IDE.
 
 We've pre-created two workspaces for you and we've also installed all of the tools that you are going you need for todays labs.
 
-Let's get started by launching the **AWS Cloud9** console: [AWS Cloud9 console AP-SOUTHEAST-2](https://us-east-1.console.aws.amazon.com/cloud9/home?region=ap-southeast-2)
+Let's get started by launching the **AWS Cloud9** console: [AWS Cloud9 console US-EAST-1](https://us-east-1.console.aws.amazon.com/cloud9/home?region=us-east-1)
 
 Find the workspace named **EKSLabIDE** and click **Open IDE**:
 
